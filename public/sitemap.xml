@@ -1,0 +1,37 @@
+<?ml version="1.0" encoding="UTF-8"?>
+<urlset mlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Regular Pages -->
+    <url>
+      <loc>https://blsinternational.ca/</loc>
+    </url>
+    <url>
+      <loc>https://blsinternational.ca/aboutus</loc>
+    </url>
+    <url>
+      <loc>https://blsinternational.ca/contact</loc>
+    </url>
+    <!-- <url>
+      <loc>https://blsinternational.ca/login</loc>
+    </url> -->
+    <url>
+      <loc>https://blsinternational.ca/pickup-drop</loc>
+    </url>
+    <url>
+      <loc>https://blsinternational.ca/pickup-instructions</loc>
+    </url>
+    <url>
+      <loc>https://blsinternational.ca/services</loc>
+    </url>
+    <!-- <url>
+      <loc>https://blsinternational.ca/success</loc>
+    </url> -->
+    <url>
+      <loc>https://blsinternational.ca/track</loc>
+    </url>
+
+    <!-- Dynamic Service Pages -->
+    <url>
+      <loc>https://blsinternational.ca/services/[id]</loc>
+    </url>
+
+</urlset>
